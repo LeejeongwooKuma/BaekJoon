@@ -13,7 +13,7 @@ public class FourDot {
             y = sc.nextInt();
             if (list_x.contains(x)) { //x 값이 기존의 list_x에 존재하는가?
                 list_x.remove(list_x.indexOf(x)); //존재하면 해당 값을 삭제해줌.
-                x = 0; //삭제 후 0값을 대체제로 넣어줌.
+                x = 0; //삭제 후 0값을 대체제로 넣어줌
             }
             if (list_y.contains(y)) {
                 list_y.remove(list_y.indexOf(y));
