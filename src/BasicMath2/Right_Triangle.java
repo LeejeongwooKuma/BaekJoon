@@ -21,5 +21,6 @@ public class Right_Triangle {
                 System.out.println("wrong");
             }
         }
+        sc.close();
     }
 }
