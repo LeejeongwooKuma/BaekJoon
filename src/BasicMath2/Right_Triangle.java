@@ -20,6 +20,8 @@ public class Right_Triangle {
             else {
                 System.out.println("wrong");
             }
+
         }
+        sc.close();
     }
 }
