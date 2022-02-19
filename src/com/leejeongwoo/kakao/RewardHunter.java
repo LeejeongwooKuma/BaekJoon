@@ -1,4 +1,4 @@
-package Kakao;
+package com.leejeongwoo.kakao;
 
 import java.util.Scanner;
 
