@@ -1,4 +1,4 @@
-package BasicMath2;
+package com.leejeongwoo.basicmath2;
 
 import java.util.*;
 
